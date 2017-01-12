@@ -1,0 +1,4 @@
+frst    PowerShell因为在此系统中禁止执行脚本解决方法
+        set-executionpolicy remotesigned
+	    有可能影响系统安全
+second   
